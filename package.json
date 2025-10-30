@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Akila-Heshan/Portfolio",
+  "homepage": "https://akila-heshan.github.io/Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
